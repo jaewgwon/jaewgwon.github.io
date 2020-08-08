@@ -14,6 +14,7 @@ tagline: Android developer  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   도쿄 사는 안드로이드 개발자
+  모바일 앱개발 문의 및 소통은 메일로 부탁드립니다!
 
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'https://jaewgwon.github.io'
@@ -62,8 +63,8 @@ google_analytics:
     cache: false  # pv data local cache, good for the users from GFW area.
 
 disqus:
-  comments: false  # boolean type, the global switch for posts comments.
-  shortname: ''    # Fill with your Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+  comments: true  # boolean type, the global switch for posts comments.
+  shortname: 'jaewgwon'    # Fill with your Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 
 # Prefer color scheme setting, available values:
