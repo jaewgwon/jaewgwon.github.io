@@ -1,12 +1,10 @@
 ---
 title: Jaewon Gwon
 ---
-
-## Jaewon Gwon
 ### Android Developer  
 
 jaewgwon@gmail.com  
-Android, ReactiveX, and server-side tech skills  
+Android, ReactiveX, and server-side skills
 with Java, Kotlin, Python, JS
 
 도쿄에 거주중인 안드로이드 개발자입니다.  
@@ -14,7 +12,7 @@ with Java, Kotlin, Python, JS
 비즈니스나 앱 개발 관련 문의는 메일로 부탁드립니다!  
 
 Android developer who lives in Tokyo.  
-I've decided to publish my blog to share what i've learned.  
+I've decided to publish my blog to share tech skills.
 Please feel free to contact me at email if you want me to offer business.  
 
 東京へ住んでいるアンドロイド開発者です。  
