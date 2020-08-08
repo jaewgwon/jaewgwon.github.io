@@ -2,7 +2,7 @@
 layout: post
 title: test my blog
 date: 2020-08-08 20:32:00 +0900
-category: sample test
+categories: sample test
 ---
 #test my blog
 
