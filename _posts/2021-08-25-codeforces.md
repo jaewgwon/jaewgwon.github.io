@@ -18,7 +18,7 @@ tags: [nodejs, docker, backend, server]
 루트에 다음과 같은 파일을 만들어주었다.
 
 **Dockerfile**
-```Go
+```
 FROM node:12-alpine
 WORKDIR /src
 COPY package*.json ./
