@@ -29,11 +29,8 @@ COPY test_data.sql /tmp/psql_data/
 2. 다음과 같은 방식으로 빌드 및 컨테이너를 실행한다.
 
 구성 및 pwd
-```
-(tree)
 - Dockerfile
 - *.sql # 추가할 SQL파일
-```
 
 ```
 $ docker build --tag 이미지이름 .        // 이미지 빌드
