@@ -3,7 +3,7 @@
       "apps": [],
       "details": [
       {
-        "appID": "VHY32ZU4KA.cloud.kintone.kinid.stg",
+        "appID": "VHY32ZU4KA.cloud.kintone.kinid.dev",
         "paths": ["*"]
       }
     ]
