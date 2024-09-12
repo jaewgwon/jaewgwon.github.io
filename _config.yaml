@@ -1,1 +1,1 @@
-include: ["/docs/.well-known"]
+include: [".well-known"]
