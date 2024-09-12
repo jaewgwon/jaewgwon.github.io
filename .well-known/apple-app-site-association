@@ -1,0 +1,11 @@
+{
+  "applinks": {
+      "apps": [],
+      "details": [
+      {
+        "appID": "VHY32ZU4KA.cloud.kintone.kinid.stg",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
